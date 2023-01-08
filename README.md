@@ -38,6 +38,10 @@ Examples of how would they look like:
 TOKENS=token1
 PREFIXES=.
 ```
+### Start Command
+```
+.farm
+```
 
 ## License
 
